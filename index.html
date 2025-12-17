@@ -1,20 +1,81 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sample Page</title>
     <link rel="stylesheet" href="styles.css">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Lexend+Zetta:wght@100..900&family=Lexend:wght@100..900&display=swap"
+        rel="stylesheet">
 </head>
-<body>
-    <header>
-        <h1>Welcome to the Sample Page</h1>
+
+<body class="lexend-font-light">
+    <header class="header">
+        <div class="header-content">
+            <h1 class="lexend-font-regular header-title">
+                <span>Arden</span>
+                <span>Haldorson</span>
+            </h1>
+            <span class="lexend-zetta-font-light under-title">Front-End Developer</span>
+        </div>
     </header>
-    <main>
-        <p>This is a simple HTML page to demonstrate linking a CSS file.</p>
-    </main>
-    <footer>
-        <p>&copy; 2024 Sample Page</p>
+    <div class="container">
+        <main class="main">
+            <section class="contact-summary">
+                <div class="contact">
+                    <h2>Contact Information</h2>
+                    <p>Email:
+                </div>
+                <div class="summary">
+                    <h2>Summary</h2>
+                    <p>This is a very brief summary about myself and my professional background.</p>
+                </div>
+            </section>
+            <section class="skills-work-education">
+                <div class="skills">
+                    <h2>Skills</h2>
+                    <ul class="skills-list">
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>JavaScript</li>
+                        <li>React</li>
+                        <li>Git</li>
+                    </ul>
+                </div>
+                <div class="work-education">
+                    <h2>Work Experience</h2>
+                    <div class="job">
+                        <h3>Job Title 1</h3>
+                        <p>Company Name | Date Range</p>
+                        <ul>
+                            <li>Responsibility or achievement 1</li>
+                            <li>Responsibility or achievement 2</li>
+                        </ul>
+                    </div>
+                    <div class="job">
+                        <h3>Job Title 2</h3>
+                        <p>Company Name | Date Range</p>
+                        <ul>
+                            <li>Responsibility or achievement 1</li>
+                            <li>Responsibility or achievement 2</li>
+                        </ul>
+                    </div>
+                    <div class="education">
+                        <h2>Education</h2>
+                        <p>Degree | Institution Name | Graduation Year</p>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+    <footer class="footer">
+        <p>&copy; Arden Haldorson</p>
     </footer>
 </body>
+
 </html>
