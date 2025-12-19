@@ -320,7 +320,7 @@ ul {
         }
 
         .volunteering {
-            margin-bottom: 15px;
+            margin-bottom: 10px;
 
             h3 {
                 text-transform: initial;
@@ -336,7 +336,6 @@ ul {
             }
         }
     }
-
 
     .work-education {
         display: flex;
@@ -528,7 +527,6 @@ ul {
                 }
             }
         }
-
 
         .work-experience {
             margin-bottom: 20px;
