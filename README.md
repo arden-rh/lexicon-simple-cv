@@ -6,11 +6,11 @@ This project is a Lexicon assignment.
 
 ## Features
 
-- 📱 Fully responsive design (mobile & desktop)
-- 🌓 Dark/light mode toggle
-- ♿ Accessible with ARIA labels
-- 🎨 Clean, modern design
-- 🔤 Custom typography using Google Fonts (Lexend)
+- Fully responsive design (mobile & desktop)
+- Dark/light mode toggle
+- Accessible with ARIA labels
+- Clean, modern design
+- Custom typography using Google Fonts (Lexend)
 
 ## Technologies
 
