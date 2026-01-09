@@ -18,6 +18,9 @@ This project is a Lexicon assignment.
 - CSS3 (with CSS Variables)
 - JavaScript (ES6)
 
+## Live Site
+[View the live CV on my GitHub Pages](https://arden-rh.github.io/lexicon-simple-cv/)
+
 ## Local Development
 
 Simply open `index.html` in your browser, or use a local server:
