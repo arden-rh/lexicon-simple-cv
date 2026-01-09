@@ -41,4 +41,4 @@ The theme preference is saved to localStorage and persists across sessions. Clic
 
 ## License
 
-© Arden Haldorson
+© 2026 Arden Haldorson
